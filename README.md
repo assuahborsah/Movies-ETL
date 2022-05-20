@@ -3,13 +3,16 @@
 # Project Overview
 
 This project will look at updating Amazing Prime daily by creating an automated pipeline that will take in new data, perform transformations, and load the data into existing tables. 
+
 One function would be created and refactored to take in three files Wikipedia data, Kaggle metadata, and the MovieLens rating data.
-Lastly an ETL is performed by adding the data to a PostgreSQL database.
+
+Lastly, an ETL is performed by adding the data to a PostgreSQL database.
 
 # Resources
 
-Python, Pandas, PostgreSQL, Jupyter Notebook
-Data Source: wikipedia-movies.json, movies_metadata.csv, ratings.csv
+Python, Pandas, PostgreSQL, Jupyter Notebook.
+
+Data Source: wikipedia-movies.json, movies_metadata.csv, ratings.csv.
 
 # Results
 
